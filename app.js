@@ -16,4 +16,4 @@ alert (`${q4} is a decent color.`)
 console.log(q4);
 
 alert (`It appears your name is ${q1}, and you live in ${q2}. It also appears your favorite film is ${q3}, and you think the best color is ${q4}.`)
-document.write(`Your name is ${q1}, and you live in ${q2}. Your favorite film is ${q3}, and you think the best color is ${q4}.`)
+document.write(`Ok ${q1}, I understand you live in ${q2}. Your favorite film is ${q3}, and you think the best color is ${q4}.`)
